@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!Data/
+!DATA/SMSbot.ico
+!Front.py
+!SMSbot.ico
+!ReportsDownloader.py
